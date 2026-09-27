@@ -1,2 +1,3 @@
 # AI Readiness Score - Measuring Human Skills for the AI Era
-Evidence-based AI Readiness Score for an EdTech client - a two-pipeline system (quantitative scoring + NLP on roleplay transcripts) with a live Streamlit dashboard. MSc final project.
+
+An evidence-based analytics system that measures how ready people are to work alongside AI, built as an MSc final project for LEVRA, a UK EdTech company, and delivered as a live interactive dashboard.
